@@ -1,0 +1,171 @@
+
+[
+  {
+    "id": 1,
+    "name": "Категория",
+    "active": true,
+    "news": [
+      {
+        "id": 1,
+        "active": true,
+        "title": "Новость 1",
+        "image": "http://site-with.images/images/image-1.jpg",
+        "description": "Описание",
+        "text": "text",
+        "date": "2015-05-12"
+      },
+      {
+        "id": 2,
+        "active": true,
+        "title": "Новость 2",
+        "image": "http://site-with.images/images/image-1.jpg",
+        "description": "Описание",
+        "text": "text",
+        "date": "2015-05-12"
+      }
+    ],
+    "subcategories": [
+      {
+        "id": 2,
+        "name": "Категория s1",
+        "active": true,
+        "news": [
+          {
+            "id": 3,
+            "active": true,
+            "title": "Новость 3",
+            "image": "http://site-with.images/images/image-1.jpg",
+            "description": "Описание",
+            "text": "text",
+            "date": "2015-05-12"
+          },
+          {
+            "id": 4,
+            "active": false,
+            "title": "Новость 4",
+            "image": "http://site-with.images/images/image-1.jpg",
+            "description": "Описание",
+            "text": "text",
+            "date": "2015-05-12"
+          }
+        ],
+        "subcategories": []
+      },
+      {
+        "id": 3,
+        "name": "Категория 3",
+        "active": false,
+        "news": [
+          {
+            "id": 5,
+            "active": true,
+            "title": "Новость 5",
+            "image": "http://site-with.images/images/image-1.jpg",
+            "description": "Описание",
+            "text": "text",
+            "date": "2015-05-12"
+          },
+          {
+            "id": 6,
+            "active": true,
+            "title": "Новость 6",
+            "image": "http://site-with.images/images/image-6.jpg",
+            "description": "Описание 6",
+            "text": "text 6",
+            "date": "2015-05-12"
+          }
+
+        ],
+        "subcategories": [
+          {
+            "id": 4,
+            "name": "Категория s2 4",
+            "active": false,
+            "news": [
+              {
+                "id": 7,
+                "active": true,
+                "title": "Новость 7",
+                "image": "http://site-with.images/images/image-7.jpg",
+                "description": "Описание 7",
+                "text": "text 7",
+                "date": "2015-05-12"
+              },
+              {
+                "id": 8,
+                "active": true,
+                "title": "Новость 8",
+                "image": "http://site-with.images/images/image-8.jpg",
+                "description": "Описание 8",
+                "text": "text 8",
+                "date": "2015-05-12"
+              }
+
+            ],
+            "subcategories": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Категория 20",
+    "active": true,
+    "news": [
+      {
+        "id": 31,
+        "active": true,
+        "title": "Новость",
+        "image": "http://site-with.images/images/image-31.jpg",
+        "description": "Описание",
+        "text": "text",
+        "date": "2015-05-12"
+      },
+      {
+        "id": 32,
+        "active": true,
+        "title": "Новость",
+        "image": "http://site-with.images/images/image-32.jpg",
+        "description": "Описание",
+        "text": "text",
+        "date": "2015-05-12"
+      }
+    ],
+    "subcategories": [
+      {
+        "id": 24,
+        "name": "Категория 24",
+        "active": true,
+        "news": [
+          {
+            "id": 33,
+            "active": true,
+            "title": "Новость",
+            "image": "http://site-with.images/images/image-1.jpg",
+            "description": "Описание",
+            "text": "text",
+            "date": "2015-05-12"
+          },
+          {
+            "id": 34,
+            "active": false,
+            "title": "Новость ",
+            "image": "http://site-with.images/images/image-1.jpg",
+            "description": "Описание",
+            "text": "text",
+            "date": "2015-05-12"
+          }
+        ],
+        "subcategories": []
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
