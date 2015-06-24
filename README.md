@@ -15,6 +15,8 @@ ruby news_importer.rb import data/from.json --an
 
 ruby news_importer.rb import data/from.json --aс
 
+ruby news_importer.rb import data/from.json --an --aс
+
 #### или
 
 ruby news_importer.rb
